@@ -15,7 +15,7 @@ To my understanding, quantum suicide is an experiment to test that if the many-w
 The program will generate a random number from 0 to 1. If the random number is less than or equal to 0.5 (simulating 50/50), the object is alive else the object is considered dead. The program whill show the number of tries, highest number of tries that the object is alive, and the **chances** of it happening.
 
 ## Test
-The Python program was activated in a DigitalOcean VPS (1GB plan) on July 29, 2021.
+The Python program was activated in a DigitalOcean VPS (1GB plan w/ some non-busy websites hosted) on July 29, 2021.
 As of 07/31/2021, the highest number of tries that the object is alive is 40 with a 0.00000000009% of chance happening!
 
 ```
@@ -29,6 +29,13 @@ As of 08/08/2021, the highest number of tries that the object is alive is 42 wit
 Number of tries: 4,372,370,638,687
 Highest counter: 42
 Chances of this happening is: 0.0000000000227373675443232059478759765625% - 2021-08-08 22:59:29.229361
+```
+As of 09/02/2021 (my birthday), the highest number of tries that the object is alive is 48 with a 0.000000000000355% of chance happening! Looking forward to more than 50!
+
+```
+Number of tries: 9,227,125,479,797
+Highest counter: 48
+Chances of this happening is: 0.0000000000003552713678800500929355621337890625% - 2021-08-21 22:06:03.556991
 ```
 ------------------------
 ###### A personal experiment in memory of my brother Jeffrey Davalos who I believe is perfectly alive in other reality but unfortunately, not on mine.
